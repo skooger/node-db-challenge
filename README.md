@@ -40,11 +40,19 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 - [ ] Explain the difference between `Relational Databases` and `SQL`.
 
+Relational databases is the database software system, where SQL is a languge used to query a relational database.
+
 - [ ] Why do tables need a `primary key`?
+
+  Keeps unique entries and allows us to know which rows data is being held in.
 
 - [ ] What is the name given to a table column that references the primary key on another table.
 
+Foreign Key
+
 - [ ] What do we need in order to have a _many to many_ relationship between two tables.
+
+You need a table that keeps track of both tables ids.
 
 ## Minimum Viable Product
 
